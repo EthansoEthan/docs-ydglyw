@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-lvt3r1.trans88.online/sitemap.xml
